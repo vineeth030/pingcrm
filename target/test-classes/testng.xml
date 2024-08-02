@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="TestToVerifyLoginFuncationality">
+        <classes>
+            <class name="com.pingcrm.tests.LoginTests"/> <!-- Replace with your test class -->
+        </classes>
+    </test>
+</suite>

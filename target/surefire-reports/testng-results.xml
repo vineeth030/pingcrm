@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-02T09:38:22 IST" name="MyTestSuite" finished-at="2024-08-02T09:38:44 IST" duration-ms="22295">
+    <groups>
+    </groups>
+    <test started-at="2024-08-02T09:38:22 IST" name="TestToVerifyLoginFuncationality" finished-at="2024-08-02T09:38:44 IST" duration-ms="22295">
+      <class name="com.pingcrm.tests.LoginTests">
+        <test-method signature="canUserLoginWithPostiveInputs()[pri:0, instance:com.pingcrm.tests.LoginTests@65466a6a]" started-at="2024-08-02T09:38:22 IST" name="canUserLoginWithPostiveInputs" finished-at="2024-08-02T09:38:39 IST" duration-ms="17129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canUserLoginWithPostiveInputs -->
+        <test-method signature="canUserSeeErrorMessageWhenLoginWithWrongCredentials()[pri:0, instance:com.pingcrm.tests.LoginTests@65466a6a]" started-at="2024-08-02T09:38:39 IST" name="canUserSeeErrorMessageWhenLoginWithWrongCredentials" finished-at="2024-08-02T09:38:44 IST" duration-ms="5095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canUserSeeErrorMessageWhenLoginWithWrongCredentials -->
+      </class> <!-- com.pingcrm.tests.LoginTests -->
+    </test> <!-- TestToVerifyLoginFuncationality -->
+  </suite> <!-- MyTestSuite -->
+</testng-results>
